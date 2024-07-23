@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @guyelov
+- 👋 Hi, I’m @Guy Elovici
 - 👀 I’m interested in Machine Learning and Deep Learning. 
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning Data Science.
 - 📫 How to reach me by email: guyelov19@gmail.com
 
 <!---
